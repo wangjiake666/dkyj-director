@@ -1,5 +1,15 @@
 # 对应源码 / Corresponding Source
 
+## 0.8.0-preview.11
+
+当前客户端许可为 GPL-3.0-or-later。对应源码包含可编辑模块、构建脚本和测试，免费提供，无需购买 Pro。请联系 [826701673@qq.com](mailto:826701673@qq.com?subject=DKYJ%200.8.0-preview.11%20Corresponding%20Source) 获取完整对应源码；当前版本尚未设置匿名直接下载地址。
+
+文件：`DKYJ-0.8.0-preview.11-corresponding-source.zip`
+
+SHA-256：`81e1aefdcc8940f3c7bd8b4c3bd37a95e9678888ca8350547d38d78b337faab8`
+
+以下为历史版本对应源码：
+
 ## 0.8.0-preview.10
 
 当前客户端许可为 GPL-3.0-or-later。对应源码包含可编辑模块、构建脚本和测试，免费提供，无需购买 Pro。

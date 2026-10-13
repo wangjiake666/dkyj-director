@@ -4,11 +4,11 @@
 
 **产品介绍、使用说明与 Mac / Windows 客户端下载。Lite 与 Pro 使用同一安装包。**
 
-## 下载 0.8.0-preview.10
+## 下载 0.8.0-preview.11
 
-- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.10-macos.zip)
-- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.10-windows.zip)
-- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.10)
+- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.11-macos.zip)
+- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.11-windows.zip)
+- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.11)
 
 下载 ZIP 后解压，Mac 双击“打开大开眼界导演台.command”，Windows 双击对应 .cmd 启动器。首次启动按提示安装依赖。
 
@@ -24,21 +24,27 @@
 
 ## 本版新增
 
+取消旧版三场次与手柄录制收费限制，所有功能免费使用；Pro 仅用于免水印。
+
 在网页底部展开 **场内分镜**，先取景，再点添加机位、设置时长；可替换角度，连续预览并导出整场。需要保留时点击保存场次。参见 [场内分镜使用说明](docs/scene-shots.md)。
 
 手柄的移动／升降与转向灵敏度分别调整并保存。预览取图减少等待，俯视预览使用 640×360；导出分辨率与帧率保持不变。同一 Mac 测试场景平均预览由约 6.8 提高到 13.9 FPS，复杂场景和其他设备会不同。本轮手柄使用合成输入验证，未进行 Xbox／PS5、iPhone 或 Windows 真机验收。
 
-## Lite 与 Pro
+## 免费版与 Pro
 
-| 功能 | Lite 免费版 | Pro |
+免费版开放全部导演功能。**Pro 唯一差异为免水印导出**，已有有效激活码继续使用。
+
+| 功能 | 免费版 | Pro |
 | --- | --- | --- |
-| 每项目保存场次 | 3 个，可删旧腾位 | 不限 |
-| 手机／键盘录制 | 支持 | 支持 |
-| 手柄预览 | 支持 | 支持 |
-| 手柄录制与轨迹保存 | 官方场景试录 | 正式项目可用 |
-| 视频导出 | 带预览水印 | 无水印 |
+| 项目与场次保存 | 不设授权数量限制 | 相同 |
+| 手机、触控、键盘、手柄录制 | 支持 | 相同 |
+| 场内分镜、人物调度、关键帧 | 支持 | 相同 |
+| 工程打包与导入 | 支持 | 相同 |
+| 视频、图片导出 | 右下角带一个水印 | 免水印 |
 
-Pro v1 激活码无到期日期，授权覆盖当前商业大版本。[前往爱发电选择 Pro 商品](https://afdian.com/a/DKYJ666?tab=home)，获取激活码后在客户端授权面板离线激活。
+镜头、俯视、空间说明和合并视频均可免费导出。合并画面在合成后统一添加水印，避免重复。JSON / TXT 参考文件保留导出计划标识。
+
+[前往爱发电购买 Pro 免水印](https://afdian.com/a/DKYJ666?tab=home)，获取激活码后在客户端授权面板离线激活，无需重装。Pro v1 激活码无到期日期，覆盖当前商业大版本。参见 [免费版与 Pro 说明](docs/licensing.md)。
 
 ## 使用环境
 

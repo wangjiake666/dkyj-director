@@ -4,11 +4,11 @@
 
 **产品介绍、使用说明与 Mac / Windows 客户端下载。Lite 与 Pro 使用同一安装包。**
 
-## 下载 0.8.0-preview.12
+## 下载 0.8.0-preview.13
 
-- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.12-macos.zip)
-- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.12-windows.zip)
-- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.12)
+- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.13-macos.zip)
+- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.13-windows.zip)
+- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.13)
 
 下载 ZIP 后解压，Mac 双击“打开大开眼界导演台.command”，Windows 双击对应 .cmd 启动器。首次启动按提示安装依赖。
 
@@ -24,7 +24,7 @@
 
 ## 本版新增
 
-`0.8.0-preview.12` 默认启用人物局部朝向色块。已有简模在开启时升级，保留人物身份色、走位动画和摄影机；仍为球头与方块身体两个网格。
+`0.8.0-preview.13` 默认启用人物局部朝向色块。已有简模在开启时升级，保留人物身份色、走位动画和摄影机；仍为球头与方块身体两个网格。
 
 取消旧版三场次与手柄录制收费限制，所有功能免费使用；Pro 仅用于免水印。
 

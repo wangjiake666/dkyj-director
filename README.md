@@ -4,11 +4,11 @@
 
 **产品介绍、使用说明与 Mac / Windows 客户端下载。Lite 与 Pro 使用同一安装包。**
 
-## 下载 0.8.0-preview.11
+## 下载 0.8.0-preview.12
 
-- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.11-macos.zip)
-- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.11-windows.zip)
-- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.11)
+- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.12-macos.zip)
+- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.12-windows.zip)
+- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.12)
 
 下载 ZIP 后解压，Mac 双击“打开大开眼界导演台.command”，Windows 双击对应 .cmd 启动器。首次启动按提示安装依赖。
 
@@ -20,9 +20,11 @@
 - 导出镜头画面和俯视空间说明，两路各为 16:9，可独立或上下合并。
 - 切换项目与场次，保留场景模型用于后续预演；支持打包工程、换电脑导入。
 - 同一场戏添加多个机位与时长，连续预览和导出，人物走位共用原时间轴。
-- 无四肢简模可选开启「正面朝向颜色」，区分人物正面，随场次保存。
+- 无四肢色块人默认带头部前条与胸前横条，背面保留人物身份色；可关闭，随场次保存。
 
 ## 本版新增
+
+`0.8.0-preview.12` 默认启用人物局部朝向色块。已有简模在开启时升级，保留人物身份色、走位动画和摄影机；仍为球头与方块身体两个网格。
 
 取消旧版三场次与手柄录制收费限制，所有功能免费使用；Pro 仅用于免水印。
 

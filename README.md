@@ -4,11 +4,11 @@
 
 **产品介绍、使用说明与 Mac / Windows 客户端下载。Lite 与 Pro 使用同一安装包。**
 
-## 下载 0.8.0-preview.13
+## 下载 0.8.0-preview.14
 
-- [Mac 客户端](downloads/dkyj-client-0.8.0-preview.13-macos.zip)
-- [Windows 客户端](downloads/dkyj-client-0.8.0-preview.13-windows.zip)
-- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.13)
+- [Mac 客户端](https://github.com/wangjiake666/dkyj-director/releases/download/v0.8.0-preview.14/dkyj-client-0.8.0-preview.14-macos.zip)
+- [Windows 客户端](https://github.com/wangjiake666/dkyj-director/releases/download/v0.8.0-preview.14/dkyj-client-0.8.0-preview.14-windows.zip)
+- [对应源码获取说明](SOURCE.md) · [版本发布页](https://github.com/wangjiake666/dkyj-director/releases/tag/v0.8.0-preview.14)
 
 下载 ZIP 后解压，Mac 双击“打开大开眼界导演台.command”，Windows 双击对应 .cmd 启动器。首次启动按提示安装依赖。
 
@@ -22,9 +22,11 @@
 - 同一场戏添加多个机位与时长，连续预览和导出，人物走位共用原时间轴。
 - 无四肢色块人默认带头部前条与胸前横条，背面保留人物身份色；可关闭，随场次保存。
 
-## 本版新增
+## 本版修复
 
-`0.8.0-preview.13` 默认启用人物局部朝向色块。已有简模在开启时升级，保留人物身份色、走位动画和摄影机；仍为球头与方块身体两个网格。
+- 网页导出使用当前 Blender，不再另起一个 Blender。渲染期间请等待，完成后可继续在原场次和机位编辑。
+- 修复便携安装找不到图例生成环境，导致视频已渲染、整套空间参考却导出失败的问题。
+- 分镜只填标题时，也能正常生成参考说明。
 
 取消旧版三场次与手柄录制收费限制，所有功能免费使用；Pro 仅用于免水印。
 
